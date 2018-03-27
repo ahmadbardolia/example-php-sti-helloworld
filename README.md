@@ -50,3 +50,5 @@ Webhook Generic:	https://[Server]/oapi/v1/namespaces/example-php-sti-helloworld/
 ```
 
 and add the URL as a Webhook in your github Repository, read https://developer.github.com/webhooks/ for more details about github Webhooks
+
+New Build Trigger
